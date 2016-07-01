@@ -1,4 +1,4 @@
-# koa-xml-body
+# co-wechat-body
 
 [![npm version](https://badge.fury.io/js/co-wechat-body.svg)](https://badge.fury.io/js/co-wechat-body)
 
