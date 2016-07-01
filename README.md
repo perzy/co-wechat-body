@@ -35,6 +35,26 @@ app.use(wechatBodyParser(<options>));
 app.use(bodyParser());
 ```
 
+## Example
+
+http request raw body:
+
+```
+<xml>   
+  <return_code><![CDATA[SUCCESS]]></return_code>  
+  <return_msg><![CDATA[OK]]></return_msg> 
+</xml>
+```
+
+parse result, this.request.body:
+
+```
+{
+  "return_code": "SUCCESS",
+  "return_msg": "OK"
+}
+```
+
 
 ## Options
 
