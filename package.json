@@ -1,6 +1,6 @@
 {
   "name": "co-wechat-body",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "Wechat xml mesage body parser for koa.",
   "main": "index.js",
   "scripts": {
