@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/perzy/co-wechat-body#readme",
   "dependencies": {
+    "debug": "^2.2.0",
     "koa-xml-body": "1.0.3"
   }
 }
